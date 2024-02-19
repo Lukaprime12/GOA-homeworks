@@ -1,0 +1,3 @@
+My_Family_Now   = "Mom is 36 years old , Dad is 36 years old too , Brother is 6 years old , Grandma is 60 ,"
+My_Family_After_5_Years = "After 5 years , Mom will be 41 years old , Dad will be 41 years old too , Brother will be 11 , Grandma will be 65 , Great grandma will be 89"
+print(My_Family_Now + " and my great grandma is 84 " + My_Family_After_5_Years + " And lastly I am 12 so after 5 years I will be 17 that was all about my homework hope u enjoyed it BYE !!! :)")

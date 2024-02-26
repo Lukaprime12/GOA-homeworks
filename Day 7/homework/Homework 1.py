@@ -1,0 +1,6 @@
+Age_1 = input('Add ur age')
+Age_2 = input('add ur age too')
+Age_3 = input('AYO I dont wanna speak for myself add ur age')
+Age_4 = input('ayo add ur age')
+Age_5 = input('BRUH add ur age')
+print(int(Age_1) *int( Age_2) / int(Age_3) + int(Age_4) + int(Age_5) + int(Age_1) + int(Age_2))
